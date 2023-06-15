@@ -6,5 +6,6 @@ public class Welcome {
         System.out.println("welcome02");
         System.out.println("welcome03");
         System.out.println("welcome04");
+        System.out.println("welcome05");
     }
 }
